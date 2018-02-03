@@ -9,5 +9,12 @@ public class SearchPgae {
 	{
 		System.out.println("search page");
 	}
+	
+	@Test
+	public void searchPage1()
+	{
+		System.out.println("search page1");
+	}
+	
 
 }
